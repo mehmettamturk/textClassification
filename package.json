@@ -1,0 +1,14 @@
+{
+  "name": "Text Classification",
+  "version": "0.0.1",
+  "description": "An example classification for news classification.",
+  "author": "Mehmet Tamtürk <mehmettamturk@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nodejitsu/browsenpm.org"
+  },
+  "dependencies": {
+    "classifier": "0.1.0",
+    "limdu": "0.8.0"
+  }
+}
